@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/pwa-robo-react-redax-app/precache-manifest.88524f1f208f0bfef9687c71bdb3d4e5.js"
+  "/pwa-robo-react-redax-app/precache-manifest.a5864fbdc5936c36bc565ac260c5fa12.js"
 );
 
 workbox.clientsClaim();

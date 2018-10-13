@@ -1,7 +1,7 @@
 {
   "main.css": "/pwa-robo-react-redax-app/static/css/main.dd26f316.chunk.css",
-  "main.js": "/pwa-robo-react-redax-app/static/js/main.54423172.chunk.js",
-  "main.js.map": "/pwa-robo-react-redax-app/static/js/main.54423172.chunk.js.map",
+  "main.js": "/pwa-robo-react-redax-app/static/js/main.b68a8f15.chunk.js",
+  "main.js.map": "/pwa-robo-react-redax-app/static/js/main.b68a8f15.chunk.js.map",
   "static/css/1.f03d3d00.chunk.css": "/pwa-robo-react-redax-app/static/css/1.f03d3d00.chunk.css",
   "static/js/1.f17fbf04.chunk.js": "/pwa-robo-react-redax-app/static/js/1.f17fbf04.chunk.js",
   "static/js/1.f17fbf04.chunk.js.map": "/pwa-robo-react-redax-app/static/js/1.f17fbf04.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.f03d3d00.chunk.css.map": "/pwa-robo-react-redax-app/static/css/1.f03d3d00.chunk.css.map",
   "static/css/main.dd26f316.chunk.css.map": "/pwa-robo-react-redax-app/static/css/main.dd26f316.chunk.css.map",
   "index.html": "/pwa-robo-react-redax-app/index.html",
-  "precache-manifest.88524f1f208f0bfef9687c71bdb3d4e5.js": "/pwa-robo-react-redax-app/precache-manifest.88524f1f208f0bfef9687c71bdb3d4e5.js",
+  "precache-manifest.a5864fbdc5936c36bc565ac260c5fa12.js": "/pwa-robo-react-redax-app/precache-manifest.a5864fbdc5936c36bc565ac260c5fa12.js",
   "service-worker.js": "/pwa-robo-react-redax-app/service-worker.js"
 }
