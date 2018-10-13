@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/pwa-robo-react-redax-app/static/css/1.f03d3d00.chunk.css"
   },
   {
-    "revision": "9880564c7198436bef802cedf4e8a123",
+    "revision": "5311d62ac1ece6f2f1ba0c75bb9b2afd",
     "url": "/pwa-robo-react-redax-app/index.html"
   }
 ];
