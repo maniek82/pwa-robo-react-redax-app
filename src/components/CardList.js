@@ -19,7 +19,7 @@ const CardList = ({users}) => {
             )
         })
     return ( 
-        <div>
+        <div style={{display:'flex',flexWrap:'wrap'}}>
            
             {cardComponent}
         </div>
