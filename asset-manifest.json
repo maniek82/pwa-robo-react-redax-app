@@ -1,15 +1,15 @@
 {
-  "main.css": "/pwa-robo-react-redax-app/static/css/main.dd26f316.chunk.css",
-  "main.js": "/pwa-robo-react-redax-app/static/js/main.773019d5.chunk.js",
-  "main.js.map": "/pwa-robo-react-redax-app/static/js/main.773019d5.chunk.js.map",
-  "static/css/1.f03d3d00.chunk.css": "/pwa-robo-react-redax-app/static/css/1.f03d3d00.chunk.css",
-  "static/js/1.f17fbf04.chunk.js": "/pwa-robo-react-redax-app/static/js/1.f17fbf04.chunk.js",
-  "static/js/1.f17fbf04.chunk.js.map": "/pwa-robo-react-redax-app/static/js/1.f17fbf04.chunk.js.map",
-  "runtime~main.js": "/pwa-robo-react-redax-app/static/js/runtime~main.7d3234be.js",
-  "runtime~main.js.map": "/pwa-robo-react-redax-app/static/js/runtime~main.7d3234be.js.map",
-  "static/css/1.f03d3d00.chunk.css.map": "/pwa-robo-react-redax-app/static/css/1.f03d3d00.chunk.css.map",
-  "static/css/main.dd26f316.chunk.css.map": "/pwa-robo-react-redax-app/static/css/main.dd26f316.chunk.css.map",
-  "index.html": "/pwa-robo-react-redax-app/index.html",
-  "precache-manifest.db5e589bba1470c728fbfcfdce026904.js": "/pwa-robo-react-redax-app/precache-manifest.db5e589bba1470c728fbfcfdce026904.js",
-  "service-worker.js": "/pwa-robo-react-redax-app/service-worker.js"
+  "main.css": "/static/css/main.dd26f316.chunk.css",
+  "main.js": "/static/js/main.bc70019c.chunk.js",
+  "main.js.map": "/static/js/main.bc70019c.chunk.js.map",
+  "static/css/1.f03d3d00.chunk.css": "/static/css/1.f03d3d00.chunk.css",
+  "static/js/1.f17fbf04.chunk.js": "/static/js/1.f17fbf04.chunk.js",
+  "static/js/1.f17fbf04.chunk.js.map": "/static/js/1.f17fbf04.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/css/1.f03d3d00.chunk.css.map": "/static/css/1.f03d3d00.chunk.css.map",
+  "static/css/main.dd26f316.chunk.css.map": "/static/css/main.dd26f316.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.6315ae7fe95155047f475d2106984799.js": "/precache-manifest.6315ae7fe95155047f475d2106984799.js",
+  "service-worker.js": "/service-worker.js"
 }
