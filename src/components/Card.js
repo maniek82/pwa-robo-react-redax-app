@@ -11,7 +11,7 @@ const Card = ({ name, email, city, photo, age, phone }) => {
         <p> Tel: {phone}</p>
         <p>Country: {city}</p>
         <p>Age: {age}</p>
-        <img alt='women' src={`${photo}`} />
+        <img style={{width: '220px', height:'220px'}}alt='women' src={`${photo}`} />
       </div>
     </div>
   );

@@ -2,7 +2,7 @@
   "name": "pwa-robo-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://maniek82.github.io/",
+  "homepage": "https://maniek82.github.io/pwa-robo-react-redax-app",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
