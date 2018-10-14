@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card rendering should render banner text correctly with given strings 1`] = `
+<div
+  className="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5"
+>
+  <img
+    alt="robots"
+    src="https://robohash.org/undefined?size=100x100"
+  />
+  <div>
+    <h4>
+      Name: 
+    </h4>
+    <p>
+       
+    </p>
+    <p>
+       Tel: 
+    </p>
+    <p>
+      Country: 
+    </p>
+    <p>
+      Age: 
+    </p>
+    <img
+      alt="women"
+      src="undefined"
+      style={
+        Object {
+          "height": "auto",
+          "width": "220px",
+        }
+      }
+    />
+  </div>
+</div>
+`;
+
+exports[`Card rendering should render correctly Card 1`] = `
+<div
+  className="tc grow bg-light-green br3 pa3 ma2 dib bw2 shadow-5"
+>
+  <img
+    alt="robots"
+    src="https://robohash.org/undefined?size=100x100"
+  />
+  <div>
+    <h4>
+      Name: 
+    </h4>
+    <p>
+       
+    </p>
+    <p>
+       Tel: 
+    </p>
+    <p>
+      Country: 
+    </p>
+    <p>
+      Age: 
+    </p>
+    <img
+      alt="women"
+      src="undefined"
+      style={
+        Object {
+          "height": "auto",
+          "width": "220px",
+        }
+      }
+    />
+  </div>
+</div>
+`;

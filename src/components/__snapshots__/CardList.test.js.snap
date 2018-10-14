@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardList snapshot expect to render CardList component 1`] = `
+<div
+  style={
+    Object {
+      "alignContent": "center",
+      "display": "flex",
+      "flexWrap": "wrap",
+      "justifyContent": "center",
+    }
+  }
+>
+  <Card
+    age={5}
+    email="maniek@gmail.com"
+    key="0"
+    name="John"
+    phone="phone"
+    photo="photo"
+  />
+</div>
+`;
